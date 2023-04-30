@@ -1,0 +1,29 @@
+{
+  "name": "adani-momo-corner",
+  "version": "1.0.0",
+  "description": "Platform to sell, buy and rent books with a charge or free of cost depending upon the type of book",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Skar3Krow/Adani-momo-corner.git"
+  },
+  "author": "Skar3Krow",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Skar3Krow/Adani-momo-corner/issues"
+  },
+  "homepage": "https://github.com/Skar3Krow/Adani-momo-corner#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "database": "^0.0.2",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "express-session": "^1.17.3",
+    "lodash": "^4.17.21",
+    "mysql2": "^3.2.4",
+    "path": "^0.12.7"
+  }
+}
